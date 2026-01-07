@@ -1,0 +1,34 @@
+# Maven / Gradle build
+target/
+build/
+
+# Spring Boot logs
+*.log
+*.tmp
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / Secrets
+.env
+application.properties
+application.yml
+
+# Database files (optional)
+*.sql
+*.db
+
+# Compiled Java classes
+*.class
+
+# Temporary files
+*.tmp
+*.swp
