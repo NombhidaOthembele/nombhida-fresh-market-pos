@@ -1,2 +1,21 @@
-# nombhida-fresh-market-pos
-Nombhida Fresh Market is a full-featured POS system with inventory, sales, returns, and stock audit. Built with MySQL and Spring Boot, it supports multiple users, automatic stock updates, reports, and role-based access, simulating real retail operations
+# Nombhida Fresh Market – POS System
+
+A real-world Point of Sale (POS) database system built with MySQL and designed
+for backend integration using Spring Boot.
+
+## Features
+- Product & stock management
+- Sales processing
+- Automatic stock reduction
+- Returns & refunds
+- Audit logs
+- Daily & monthly reports
+- Performance indexing
+
+## Tech Stack
+- MySQL 8+
+- Spring Boot
+- JPA / Hibernate
+
+## Author
+Othembele Nombhida
